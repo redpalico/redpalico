@@ -5,6 +5,11 @@
 - 📫 How to reach me ...
 
 
+<table>
+  <td>wanage</td>
+  <td>![](/images/myicon.jpg) </td>
+</table>
+
 ![Test Image 3](/images/myicon.jpg) 
 <!---
 redpalico/redpalico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
