@@ -6,7 +6,7 @@
 
 
 
-<img src="images/myicon.jpg" width="100">
+<img src="images/myicon.jpg" width="300">
 
 <!---
 redpalico/redpalico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
