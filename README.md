@@ -5,13 +5,9 @@
 - 📫 How to reach me ...
 
 
-<table>
-  <td>wanage</td>
-  <td>![test](/images/myicon.jpg) </td>
-  
-</table>
 
-![Test Image 3](/images/myicon.jpg) 
+<img src="images/myicon.jpg" width="100">
+
 <!---
 redpalico/redpalico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
